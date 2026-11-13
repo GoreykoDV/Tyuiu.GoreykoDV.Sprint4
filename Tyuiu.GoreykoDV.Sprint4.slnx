@@ -14,7 +14,11 @@
     <Project Path="Tyuiu.GoreykoDV.Sprint4.Task2.V7.Test/Tyuiu.GoreykoDV.Sprint4.Task2.V7.Test.csproj" Id="2f71b321-91e7-4496-8205-7817ac947f0f" />
     <Project Path="Tyuiu.GoreykoDV.Sprint4.Task2.V7/Tyuiu.GoreykoDV.Sprint4.Task2.V7.csproj" Id="474ed71a-7cee-4a1f-93d7-cfb42863ce91" />
   </Folder>
-  <Folder Name="/Task3/" />
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.GoreykoDV.Sprint4.Task3.V10.Lib/Tyuiu.GoreykoDV.Sprint4.Task3.V10.Lib.csproj" Id="be538a35-d76d-447a-bd54-aa94518a2c47" />
+    <Project Path="Tyuiu.GoreykoDV.Sprint4.Task3.V10.Test/Tyuiu.GoreykoDV.Sprint4.Task3.V10.Test.csproj" Id="b14d9c8d-340f-4e53-8b08-a6d07a6ac538" />
+    <Project Path="Tyuiu.GoreykoDV.Sprint4.Task3.V10/Tyuiu.GoreykoDV.Sprint4.Task3.V10.csproj" Id="f225008b-6cb3-4493-b9ef-4c029401e3d2" />
+  </Folder>
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
   <Folder Name="/Task6/" />
